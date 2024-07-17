@@ -1,0 +1,3 @@
+Tìm hiểu về khóa RSA của OpenSSL: 			https://youtu.be/44TChSIQBaQ
+Tìm hiểu về mã hóa khóa công khai RSA của OpenSSL: 	https://youtu.be/Ef-gAIckU1s
+Tìm hiểu về chữ ký điện tử RSA của OpenSSL: 		https://youtu.be/uKesmv8nLyc
